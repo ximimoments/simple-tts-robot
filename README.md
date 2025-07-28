@@ -58,10 +58,6 @@ Make sure the script is executable:
 ```bash
 chmod +x robot_tts.sh
 ```
-Example:
-
-https://github.com/user-attachments/assets/8d8b5db0-e63a-472a-b1c7-be8967459d9d
-
 
 License
 
