@@ -21,7 +21,7 @@ sudo zypper install espeak sox
 ```
 ### On macOS
 
-Install with Homebrew:
+Install with Homebrew (or of the linux):
 
 ```bash
 brew install espeak sox
