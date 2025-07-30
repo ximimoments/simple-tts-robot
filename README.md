@@ -56,7 +56,7 @@ espeak -v en-us -s 160 -p 50 -a 100 "$TEXT"
 Make sure the script is executable:
 
 ```bash
-chmod +x robot_tts.sh
+chmod +x tts.sh
 ```
 
 License
